@@ -11,6 +11,6 @@ Survey Form -> <a href="https://pedroacamargo.github.io/codecamp/survey-form/ind
 
 <h1>Small Projects to learn the basics</h1>
 <hr>
-HTML/CSS Quiz -> <a href="https://pedroacamargo.github.io/codecamp/html-css-quiz/index.html">(link)</a>
-Nutrition Label -> <a href="https://pedroacamargo.github.io/codecamp/nutrition-label/index.html">(link)</a>
-Photo gallery with FlexBox -> <a href="https://pedroacamargo.github.io/codecamp/photo-gallery-flexbox/index.html">(link)</a>
+HTML/CSS Quiz -> <a href="https://pedroacamargo.github.io/codecamp/html-css-quiz/index.html">(link)</a><br>
+Nutrition Label -> <a href="https://pedroacamargo.github.io/codecamp/nutrition-label/index.html">(link)</a><br>
+Photo gallery with FlexBox -> <a href="https://pedroacamargo.github.io/codecamp/photo-gallery-flexbox/index.html">(link)</a><br>
